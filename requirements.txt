@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+qdrant-client
+fastembed
+langchain-text-splitters
+langchain-community
+pypdf
+openai
+openai-agents
+edge-tts
+faster-whisper
+pymupdf
